@@ -32,3 +32,7 @@
 ![Github](https://img.shields.io/badge/GitHub-181717?sytle=flat-square&logo=GitHub&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-61DAFB?sytle=flat-square&logo=Discord&logoColor=white)
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?sytle=flat-square&logo=YouTube&logoColor=white)
+
+---
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cherub8128)](https://solved.ac/cherub8128)
