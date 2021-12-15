@@ -34,5 +34,5 @@
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?sytle=flat-square&logo=YouTube&logoColor=white)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherub8128)](https://github.com/cherub8128/github-readme-stats)
+![Hyeongjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherub8128&show_icons=true&theme=radical)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cherub8128)](https://solved.ac/cherub8128)
