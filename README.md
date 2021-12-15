@@ -10,13 +10,13 @@
 - Game Art
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?sytle=flat-square&logo=Aseprite&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?sytle=flat-square&logo=Blender&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe Illustrator-FF9A00?sytle=flat-square&logo=AdobeIllustrator&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/Affinity Designer-1B72BE?sytle=flat-square&logo=AffinityDesigner&logoColor=white)
+![Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?sytle=flat-square&logo=AdobeIllustrator&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/AffinityDesigner-1B72BE?sytle=flat-square&logo=AffinityDesigner&logoColor=white)
 
 - AI & DataScience
 ![Python](https://img.shields.io/badge/Python-3776AB?sytle=flat-square&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?sytle=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit learn-F7931E?sytle=flat-square&logo=scikit-learn&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?sytle=flat-square&logo=scikit-learn&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?sytle=flat-square&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?sytle=flat-square&logo=Keras&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?sytle=flat-square&logo=Kaggle&logoColor=white)
