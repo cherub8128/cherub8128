@@ -3,16 +3,11 @@
 - Indie Game Development: 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white)
-![Unreal](https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
 - Game Art:
 ![InkScape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=flat-square&logo=Gimp&logoColor=white)
-![Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/AffinityDesigner-1B72BE?style=flat-square&logo=AffinityDesigner&logoColor=white)
 
 - AI & DataScience:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -31,8 +26,6 @@
 - Etc:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-61DAFB?style=flat-square&logo=Discord&logoColor=white)
-![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)
 
 ---
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cherub8128)](https://solved.ac/cherub8128)
