@@ -37,4 +37,4 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cherub8128)](https://solved.ac/cherub8128)
 
 ---
-[![OPGC](https://api.opgc.me/githubs/users/cherub8128/tag/?theme=basic](https://opgc.me/#/users/cherub8128)
+[![OPGC](https://api.opgc.me/githubs/users/cherub8128/tag/?theme=basic)](https://opgc.me/#/users/cherub8128)
