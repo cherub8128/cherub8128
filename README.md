@@ -8,8 +8,9 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 
 - Game Art:
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Aseprite&logoColor=white)
+![InkScape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)
+![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=flat-square&logo=Gimp&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/AffinityDesigner-1B72BE?style=flat-square&logo=AffinityDesigner&logoColor=white)
 
