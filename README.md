@@ -8,6 +8,7 @@
 ![InkScape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=Inkscape&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=flat-square&logo=Gimp&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=Aseprite&logoColor=white)
 
 - AI & DataScience:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
