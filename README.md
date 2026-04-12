@@ -1,8 +1,8 @@
 ## 🚀 Frontier Beyond the Dimension | Pi Dimension
 
-시대를 앞서가는 프론티어, **파이 디멘션# 🚀 Frontier Beyond the Dimension | Pi Dimension
+시대를 앞서가는 프론티어, 파이 디멘션# 🚀 Frontier Beyond the Dimension | Pi Dimension
 
-독창적인 세계관으로 차원을 넘어서는 혁신적인 게임을 개발하고 있는 **파이 디멘션(Pi-Dimension)**입니다.
+독창적인 세계관으로 차원을 넘어서는 혁신적인 게임을 개발하고 있는 파이 디멘션(Pi-Dimension)입니다.
 
 - **Official Website**: [pi-dimension.com](https://pi-dimension.com)
 - **Tech Blog**: [blog.pi-dimension.com](https://blog.pi-dimension.com)
